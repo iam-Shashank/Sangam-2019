@@ -1,7 +1,13 @@
 # Sangam-2019
 
 output1.csv : 4/100/99.7
-output1.csv : 2/25/99.8314
+output2.csv : 2/15/99.8314
+output3.csv : 2/15/99.93395
+output6.csv :
+
+
+file1.csv: 99.37812 / XGBRegressor(objective ='reg:linear', colsample_bytree = 0.3, learning_rate = 0.1,
+                max_depth = 10, alpha = 10, n_estimators = 10)
 
 Observations: 
 
@@ -21,57 +27,3 @@ Date-Time: split into Date and Time
 
 
 
-Weather_type:
-
-'Clouds',
-'Clear' ,
-'Rain',
-Drizzle',
-'Mist',
-'Haze',
-'Fog',
-'Thunderstorm',
-Snow',
-'Squall',
-'Smoke
-
-
-weather_description:
-['scattered clouds',
- 'broken clouds',
- 'overcast clouds',
- 'sky is clear',
- 'few clouds',
- 'light rain',
- 'light intensity drizzle',
- 'mist',
- 'haze',
- 'fog',
- 'proximity shower rain',
- 'drizzle',
- 'moderate rain',
- 'heavy intensity rain',
- 'proximity thunderstorm',
- 'thunderstorm with light rain',
- 'proximity thunderstorm with rain',
- 'heavy snow',
- 'heavy intensity drizzle',
- 'snow',
- 'thunderstorm with heavy rain',
- 'freezing rain',
- 'shower snow',
- 'light rain and snow',
- 'light intensity shower rain',
- 'SQUALLS',
- 'thunderstorm with rain',
- 'proximity thunderstorm with drizzle',
- 'thunderstorm',
- 'Sky is Clear',
- 'very heavy rain',
- 'thunderstorm with light drizzle',
- 'light snow',
- 'thunderstorm with drizzle',
- 'smoke',
- 'shower drizzle',
- 'light shower snow',
- 'sleet'
