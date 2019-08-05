@@ -5,7 +5,6 @@ Tools used: Jupyter Notebook, Python, Matplotlib, Numpy, Scikit-learn, Pandas, P
 
 Feature Engineering: 
 
-
 Observations: 
 
 - dew_point is highly correlated with visibility_in_miles (ρ = 1). So, one column rejected?

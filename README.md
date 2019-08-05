@@ -4,6 +4,7 @@ output1.csv : 4/100/99.7
 output2.csv : 2/15/99.8314
 output3.csv : 2/15/99.93395
 output6.csv :
+7 : 99.90
 
 
 file1.csv: 99.37812 / XGBRegressor(objective ='reg:linear', colsample_bytree = 0.3, learning_rate = 0.1,
